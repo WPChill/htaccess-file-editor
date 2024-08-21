@@ -2,7 +2,7 @@
 /*
 Plugin Name: Htaccess File Editor
 Plugin URI: https://mantrabrain.com/
-Description: Simple editor htaccess file without using FTP client.
+Description: Simple editor for htaccess file without using FTP client.
 Version: 1.0.17
 Text Domain: htaccess-file-editor
 Author: MantraBrain
