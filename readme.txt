@@ -1,11 +1,11 @@
 === Htaccess File Editor - Easily Edit, Backup, Restore .htaccess file ===
-Contributors: MantraBrain, gangadharkashyap
-Author URI: https://mantrabrain.com
+Contributors: WPChill, silkalns
+Author URI: https://wpchill.com/
 Tags: htaccess, htaccess editor, htaccess backup, htaccess restore
-Version: 1.0.17
+Version: 1.0.18
 Requires at least: 3.0
 Tested up to: 6.6
-Stable tag: 1.0.17
+Stable tag: 1.0.18
 License: GPLv2 or later
 
 Simple editor htaccess file without using FTP client.
@@ -20,13 +20,6 @@ You can create a Backup from Htaccess --> Backup Menu and you can edit .htaccess
 1. Edit .htaccess file easily
 2. Create Backup of .htaccess file
 3. Restore  old .htaccess backup
-
-== MORE PRODUCTS FROM US ==
->**[Yatra WordPress Travel Booking Plugin](https://wpyatra.com/?ref=wporghtaccess)**
->Yatra is a free, SEO friendly & scalable WordPress travel booking plugin to create travel and tour packages for tour operators and travel agencies. [View Details](https://wpyatra.com/?ref=wporghtaccess)
-
->**[Ultimate Image Watermark](https://wordpress.org/plugins/ultimate-watermark/)**
->Ultimate Watermark is WordPress Image Watermark plugin. It can automatically add watermark to any images as they are uploaded to WordPress media library and bulk watermark previously uploaded images. [View Details](https://wordpress.org/plugins/ultimate-watermark/)
 
 == Installation ==
 
@@ -47,6 +40,9 @@ Try to restore the original backup file. If restoration is not possible with thi
 Please go to our support forums. We’ll gladly help you.
 
 == Changelog ==
+= 1.0.18 - 23/08/2024 =
+* Changed: Author
+
 
 = 1.0.17 - 21/08/2024 =
 * Fixed : Compatibility to 6.6

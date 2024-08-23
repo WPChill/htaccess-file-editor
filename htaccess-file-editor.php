@@ -1,15 +1,35 @@
 <?php
 /*
 Plugin Name: Htaccess File Editor
-Plugin URI: https://mantrabrain.com/
+Plugin URI: https://wpchill.com/
 Description: Simple editor for htaccess file without using FTP client.
-Version: 1.0.17
+Version: 1.0.18
 Text Domain: htaccess-file-editor
-Author: MantraBrain
-Author URI: https://mantrabrain.com
+Author: WPChill
+Author URI: https://wpchill.com/
 Requires at least: 3.0.0
 Tested up to: 6.6
 License: GPLv2 or later
+* Copyright 2024            WPChill             heyyy@wpchill.com
+*
+* Original Plugin URI:      https://mantrabrain.com/
+* Original Author URI:      https://mantrabrain.com/
+* Original Author:          https://profiles.wordpress.org/mantrabrain/
+*
+* MantraBrain has transferred ownership to WPChill on August 2024.
+*
+* This program is free software; you can redistribute it and/or modify
+* it under the terms of the GNU General Public License, version 3, as
+* published by the Free Software Foundation.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program; if not, write to the Free software
+* Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 if (!defined('ABSPATH')) {
